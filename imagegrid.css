@@ -1,0 +1,14 @@
+img	{
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+p{
+	font-family: Lobster;
+	font-size: 25px;
+	font-weight: 500;
+	margin-left: 1.66%;
+	border-bottom: 5px double red;
+	width:30%;
+}
